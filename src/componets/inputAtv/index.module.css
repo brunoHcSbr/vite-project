@@ -1,0 +1,7 @@
+.InputAtv{
+    color: red;   
+}
+
+.InputAtv::placeholder {
+    color: red;
+  }
